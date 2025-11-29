@@ -24,3 +24,9 @@ The module must instruct the system to output a standardized warning, such as:
 
 “Section very short: summary may be incomplete.” You decide the exact wording.
 
+No made-up information is allowed
+
+All information must be from the file
+
+Must meet input instructions
+
