@@ -23,4 +23,3 @@ The module must instruct the system to output a standardized warning, such as:
 “Section skipped: no usable text was provided.”
 
 “Section very short: summary may be incomplete.” You decide the exact wording.
-
